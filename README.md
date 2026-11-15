@@ -1,8 +1,12 @@
-# Hi, I'm Carlos Arauz 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af287277-5bc3-49d1-b666-ed040e59ed4f" alt="Carlos Arauz — Graphics · Local-First Apps · 3D Web · Typesetting" width="100%" />
+</p>
 
-Software engineer building **low-level graphics on Apple Silicon**, **local-first desktop apps**, **interactive 3D web experiences**, and **automated typesetting pipelines**.
-
-🌐 **[arauz.ch](https://arauz.ch)**
+<p align="center">
+  Software engineer building <strong>low-level graphics on Apple Silicon</strong>, <strong>local-first desktop apps</strong>, <strong>interactive 3D web experiences</strong>, and <strong>automated typesetting pipelines</strong>.
+  <br /><br />
+  🌐 <a href="https://arauz.ch"><strong>arauz.ch</strong></a>
+</p>
 <!-- Add optional contact links here, e.g.: · 💼 **[LinkedIn](https://linkedin.com/in/...)** · ✉️ **[Email](mailto:...)** -->
 
 ---
