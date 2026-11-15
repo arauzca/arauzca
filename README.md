@@ -1,28 +1,26 @@
 # Hi, I'm Carlos Arauz 👋
 
-I'm a software engineer focused on **low-level graphics on Apple Silicon**, **local-first desktop applications**, **interactive 3D web experiences**, and **automated typesetting pipelines**.
+Software engineer building **low-level graphics on Apple Silicon**, **local-first desktop apps**, **interactive 3D web experiences**, and **automated typesetting pipelines**.
 
-🌐 **[arauz.ch](https://arauz.ch)** · 💻 **[github.com/arauzca](https://github.com/arauzca)**
+🌐 **[arauz.ch](https://arauz.ch)**
+<!-- Add optional contact links here, e.g.: · 💼 **[LinkedIn](https://linkedin.com/in/...)** · ✉️ **[Email](mailto:...)** -->
 
 ---
 
 ## What I Build
 
-### Apple Silicon & Low-Level Graphics
-- Designing native **C++20** and **Apple Metal** (`metal-cpp`) rendering pipelines and CMake-based graphics tooling tailored for macOS and iOS.
-- Exploring hardware-native **ARM64** execution, graphics API translation, and lightweight real-time rendering—including dual-pass retro pipelines, offscreen targets, and custom audio synthesis.
+| **Apple Silicon & Low-Level Graphics** | **Local-First Desktop Applications** |
+| :--- | :--- |
+| Native **C++20** and **Apple Metal** (`metal-cpp`) rendering pipelines, CMake graphics tooling, and ARM64 execution experiments—including dual-pass retro pipelines, offscreen targets, and custom audio synthesis. | Fast, privacy-first desktop software with **Rust** and **Tauri v2**, paired with **Angular** (Standalone Components & Zoneless Signals) and single-source-of-truth state architectures. |
+| **Interactive 3D & Spatial Web** | **Typesetting & Document Engineering** |
+| 3D spatial stages, `.glb`/`.gltf` model inspection tools, and interactive mapping viewers using **Three.js**, **Angular Three**, **MapLibre GL**, and **Draco WASM** with careful GPU resource lifecycle management. | Modular editorial book layouts and reusable academic/technical templates with **Typst** and **LuaLaTeX** (`KOMA-Script`, `biber`), plus programmatic PDF generation in desktop and CLI workflows. |
 
-### Local-First Desktop Applications
-- Building fast, privacy-first desktop software with **Rust** and **Tauri v2**, paired with modern **Angular** (Standalone Components & Zoneless Signals) interfaces.
-- Focusing on local data ownership, single-source-of-truth state architectures, and bridging native system performance with clean, responsive UI design.
+---
 
-### Interactive 3D & Spatial Web
-- Developing 3D spatial stages, `.glb`/`.gltf` model inspection tools, and interactive mapping viewers using **Three.js**, **Angular Three**, **MapLibre GL**, and **Draco WASM** compression.
-- Paying close attention to GPU resource lifecycle management, real-time telemetry, and adaptive, high-contrast visual design.
-
-### Typesetting & Document Engineering
-- Creating modular editorial book layouts and reusable academic/technical templates using **Typst** and **LuaLaTeX** (`KOMA-Script`, `biber`).
-- Integrating programmatic PDF generation directly into desktop apps and headless CLI workflows.
+## Currently
+- 🔭 Exploring hardware-native **Apple Metal** rendering and lightweight real-time simulation architectures in **C++20**.
+- 🛠️ Building local-first **Tauri v2 + Angular** tools with integrated **Typst** document generation.
+- 🎨 Experimenting with **3D web** inspection workflows and adaptive, high-contrast UI design.
 
 ---
 
